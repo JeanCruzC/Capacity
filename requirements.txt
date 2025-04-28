@@ -3,3 +3,4 @@ numpy
 pyworkforce
 streamlit
 openpyxl
+plotly
